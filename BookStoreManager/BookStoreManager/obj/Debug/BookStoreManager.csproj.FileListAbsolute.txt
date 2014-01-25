@@ -1,0 +1,5 @@
+D:\Git\BookStoreManager\BookStoreManager\bin\BookStoreManager.dll
+D:\Git\BookStoreManager\BookStoreManager\bin\BookStoreManager.pdb
+D:\Git\BookStoreManager\BookStoreManager\obj\Debug\BookStoreManager.csprojResolveAssemblyReference.cache
+D:\Git\BookStoreManager\BookStoreManager\obj\Debug\BookStoreManager.dll
+D:\Git\BookStoreManager\BookStoreManager\obj\Debug\BookStoreManager.pdb
